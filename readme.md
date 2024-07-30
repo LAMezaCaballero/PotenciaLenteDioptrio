@@ -14,3 +14,5 @@ tiene un cuadro informativo sobre como se va calculando el resultado.
 
 ![Sin título](https://github.com/user-attachments/assets/de2c240a-f84b-4814-9552-2db1c2826bcc)
 
+en un futuro se espera poder ampliarlo a otros sistemas ópticos.
+
